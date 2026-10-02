@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive sync lock files
+*.tmp
+~$*
+~$*
+*.icloud
+
+# Editor / OS
+.idea/
+.vscode/*
+!.vscode/settings.json
